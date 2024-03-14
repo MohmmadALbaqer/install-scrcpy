@@ -8,7 +8,7 @@ $ sudo bash install-scrcpy
 
 ### How it works?
 ```
-python3 scrcpy.py
+$ python3 scrcpy.py
 ```
 ### what's he doing (python3 scrcpy.py)?
 ```
