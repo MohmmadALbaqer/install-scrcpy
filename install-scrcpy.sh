@@ -30,6 +30,8 @@ sudo ./install_release.sh
 
 sudo ./release.sh
 
+sudo apt install adb -y
+
 git pull
 
 sudo ./install_release.sh
