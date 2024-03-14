@@ -3,6 +3,7 @@
 $ git clone https://github.com/MohmmadALbaqer/install-scrcpy.git
 $ cd install-scrcpy
 $ pip install -r requirements.txt
+$ chmod +x *
 $ sudo bash install-scrcpy
 ```
 
