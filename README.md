@@ -1,4 +1,3 @@
-![Logo](scrcpy.png)
 ### how install in LINUX?
 ```
 $ git clone https://github.com/MohmmadALbaqer/install-scrcpy.git
